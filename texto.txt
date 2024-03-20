@@ -1,0 +1,7 @@
+linea de prueba para enteneder el uso de github
+al hacer esta linea desde la pc del laburo, a la cual sincronice github, me sale una M de modificado 
+
+se elimino el archivo bitcoin para ver que sucedia 
+no se notan cambios parte de que ya no se ve el archivo en el repositorio
+
+hice un codigo pero no puedo correrlo
